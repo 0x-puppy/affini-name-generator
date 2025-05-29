@@ -744,7 +744,7 @@ obovate
 obsolete
 obtrapeziform
 obtuse
-ocrea ❌
+ocrea
 olim
 ontogeny
 operculum
